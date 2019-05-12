@@ -1,0 +1,663 @@
+<?xml version='1.0' encoding='utf-8'?>
+<dataset>
+  <info_parking>
+    <number>1</number>
+    <address>Санкт-Петербург, Тепловозная улица, у д 33, корпус 4, литера А</address>
+    <type>Перехватывающая</type>
+    <parking_space>77</parking_space>
+    <area>6159.0</area>
+    <district_city>Невский</district_city>
+    <nearest_subway_station>Рыбацкое</nearest_subway_station>
+    <note>Круглосуточно. Бесплатно при въезде с 06:01 до 20:00 и выезде до 23:59 при предъявлении эл. проездного документа (БСК/"Подорожник"), подтверждающего совершение 1 поездки на общественном транспорте. 150 р. за 11 ч. при въезде с 20:01 до 07:00. www. gcup.spb.ru, 417-50-00</note>
+    <coordinates>59.830987,30.505066</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>2</number>
+    <address>Санкт-Петербург, проспект Энгельса, у д. 162, литера Р</address>
+    <type>Перехватывающая</type>
+    <parking_space>155</parking_space>
+    <area>4804.0</area>
+    <district_city>Выборгский</district_city>
+    <nearest_subway_station>Парнас</nearest_subway_station>
+    <note>Круглосуточно. Бесплатно при въезде с 06:01 до 20:00 и выезде до 23:59 при предъявлении эл. проездного документа (БСК/"Подорожник"), подтверждающего совершение 1 поездки на общественном транспорте. 150 р. за 11 ч. при въезде с 20:01 до 07:00. www. gcup.spb.ru, 417-50-00</note>
+    <coordinates>60.067403,30.334694</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>3</number>
+    <address>Санкт-Петербург, проспект Просвещения, у д. 30, корпус 1</address>
+    <type>Перехватывающая</type>
+    <parking_space>43</parking_space>
+    <area>1319.0</area>
+    <district_city>Выборгский</district_city>
+    <nearest_subway_station>Проспект Просвещения</nearest_subway_station>
+    <note>Круглосуточно. Бесплатно при въезде с 06:01 до 20:00 и выезде до 23:59 при предъявлении эл. проездного документа (БСК/"Подорожник"), подтверждающего совершение 1 поездки на общественном транспорте. 150 р. за 11 ч. при въезде с 20:01 до 07:00. www. gcup.spb.ru, 417-50-00</note>
+    <coordinates>60.054322,30.327020</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>4</number>
+    <address>Санкт-Петербург, Гражданский проспект, у д. 116, корпус 1</address>
+    <type>Перехватывающая</type>
+    <parking_space>46</parking_space>
+    <area>1423.0</area>
+    <district_city>Калининский</district_city>
+    <nearest_subway_station>Гражданский проспект</nearest_subway_station>
+    <note>Круглосуточно. Бесплатно при въезде с 06:01 до 20:00 и выезде до 23:59 при предъявлении эл. проездного документа (БСК/"Подорожник"), подтверждающего совершение 1 поездки на общественном транспорте. 150 р. за 11 ч. при въезде с 20:01 до 07:00. www. gcup.spb.ru, 417-50-00</note>
+    <coordinates>60.035646,30.417890</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>5</number>
+    <address>Санкт-Петербург, Политехническая улица, у д. 29, литера П</address>
+    <type>Перехватывающая</type>
+    <parking_space>61</parking_space>
+    <area>1413.0</area>
+    <district_city>Калининский</district_city>
+    <nearest_subway_station>Политехническая</nearest_subway_station>
+    <note>Круглосуточно. Бесплатно при въезде с 06:01 до 20:00 и выезде до 23:59 при предъявлении эл. проездного документа (БСК/"Подорожник"), подтверждающего совершение 1 поездки на общественном транспорте. 150 р. за 11 ч. при въезде с 20:01 до 07:00. www. gcup.spb.ru, 417-50-00</note>
+    <coordinates>60.008229,30.370082</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>6</number>
+    <address>Санкт-Петербург, проспект Стачек, у д. 47, литера Ф</address>
+    <type>Перехватывающая</type>
+    <parking_space>50</parking_space>
+    <area>2722.0</area>
+    <district_city>Кировский</district_city>
+    <nearest_subway_station>Кировский завод</nearest_subway_station>
+    <note>Круглосуточно. Бесплатно при въезде с 06:01 до 20:00 и выезде до 23:59 при предъявлении эл. проездного документа (БСК/"Подорожник"), подтверждающего совершение 1 поездки на общественном транспорте. 150 р. за 11 ч. при въезде с 20:01 до 07:00. www. gcup.spb.ru, 417-50-00</note>
+    <coordinates>59.880670,30.261241</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>7</number>
+    <address>Санкт-Петербург, проспект Народного Ополчения, у д. 16</address>
+    <type>Перехватывающая</type>
+    <parking_space>190</parking_space>
+    <area>5814.0</area>
+    <district_city>Кировский</district_city>
+    <nearest_subway_station>Ленинский проспект</nearest_subway_station>
+    <note>Круглосуточно. Бесплатно при въезде с 06:01 до 20:00 и выезде до 23:59 при предъявлении эл. проездного документа (БСК/"Подорожник"), подтверждающего совершение 1 поездки на общественном транспорте. 150 р. за 11 ч. при въезде с 20:01 до 07:00. www. gcup.spb.ru, 417-50-00</note>
+    <coordinates>59.848022,30.280652</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>8</number>
+    <address>Санкт-Петербург, Заневский проспект, у д. 65, литера А</address>
+    <type>Перехватывающая</type>
+    <parking_space>117</parking_space>
+    <area>5200.0</area>
+    <district_city>Красногвардейский</district_city>
+    <nearest_subway_station>Ладожская</nearest_subway_station>
+    <note>Круглосуточно. Бесплатно при въезде с 06:01 до 20:00 и выезде до 23:59 при предъявлении эл. проездного документа (БСК/"Подорожник"), подтверждающего совершение 1 поездки на общественном транспорте. 150 р. за 11 ч. при въезде с 20:01 до 07:00. www. gcup.spb.ru, 417-50-00</note>
+    <coordinates>59.930949,30.435501</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>9</number>
+    <address>Санкт-Петербург, Витебский проспект, пересечение со Звездной улицей</address>
+    <type>Перехватывающая</type>
+    <parking_space>93</parking_space>
+    <area>2482.0</area>
+    <district_city>Московский</district_city>
+    <nearest_subway_station>Купчино</nearest_subway_station>
+    <note>Круглосуточно. Бесплатно при въезде с 06:01 до 20:00 и выезде до 23:59 при предъявлении эл. проездного документа (БСК/"Подорожник"), подтверждающего совершение 1 поездки на общественном транспорте. 150 р. за 11 ч. при въезде с 20:01 до 07:00. www. gcup.spb.ru, 417-50-00</note>
+    <coordinates>59.835345,30.372710</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>10</number>
+    <address>Санкт-Петербург, Витебский проспект, западнее д. 108, литера А</address>
+    <type>Перехватывающая</type>
+    <parking_space>99</parking_space>
+    <area>3741.0</area>
+    <district_city>Московский</district_city>
+    <nearest_subway_station>Купчино</nearest_subway_station>
+    <note>Круглосуточно. Бесплатно при въезде с 06:01 до 20:00 и выезде до 23:59 при предъявлении эл. проездного документа (БСК/"Подорожник"), подтверждающего совершение 1 поездки на общественном транспорте. 150 р. за 11 ч. при въезде с 20:01 до 07:00. www. gcup.spb.ru, 417-50-00</note>
+    <coordinates>59.827945,30.375620</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>11</number>
+    <address>Санкт-Петербург, улица Грибакиных, у д. 27</address>
+    <type>Перехватывающая</type>
+    <parking_space>330</parking_space>
+    <area>9764.0</area>
+    <district_city>Невский</district_city>
+    <nearest_subway_station>Обухово</nearest_subway_station>
+    <note>Круглосуточно. Бесплатно при въезде с 06:01 до 20:00 и выезде до 23:59 при предъявлении эл. проездного документа (БСК/"Подорожник"), подтверждающего совершение 1 поездки на общественном транспорте. 150 р. за 11 ч. при въезде с 20:01 до 07:00. www. gcup.spb.ru, 417-50-00</note>
+    <coordinates>59.848858,30.460832</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>12</number>
+    <address>Санкт-Петербург, Касимовская улица, напротив д. 10</address>
+    <type>Перехватывающая</type>
+    <parking_space>151</parking_space>
+    <area>4040.0</area>
+    <district_city>Фрунзенский</district_city>
+    <nearest_subway_station>Волковская</nearest_subway_station>
+    <note>Круглосуточно. Бесплатно при въезде с 06:01 до 20:00 и выезде до 23:59 при предъявлении эл. проездного документа (БСК/"Подорожник"), подтверждающего совершение 1 поездки на общественном транспорте. 150 р. за 11 ч. при въезде с 20:01 до 07:00. www. gcup.spb.ru, 417-50-00</note>
+    <coordinates>59.896152,30.361063</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>13</number>
+    <address>Санкт-Петербург, улица Салова, у д. 70 литера А</address>
+    <type>Перехватывающая</type>
+    <parking_space>89</parking_space>
+    <area>3607.0</area>
+    <district_city>Фрунзенский</district_city>
+    <nearest_subway_station>Бухарестская</nearest_subway_station>
+    <note>Круглосуточно. Бесплатно при въезде с 06:01 до 20:00 и выезде до 23:59 при предъявлении эл. проездного документа (БСК/"Подорожник"), подтверждающего совершение 1 поездки на общественном транспорте. 150 р. за 11 ч. при въезде с 20:01 до 07:00. www. gcup.spb.ru, 417-50-00</note>
+    <coordinates>59.886305,30.374229</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>14</number>
+    <address>Санкт-Петербург, Витебский пр., у д. 108, лит. А и Б.</address>
+    <type>Перехватывающая</type>
+    <parking_space>97</parking_space>
+    <area>4124.0</area>
+    <district_city>Фрунзенский</district_city>
+    <nearest_subway_station>Купчино</nearest_subway_station>
+    <note>Круглосуточно. Бесплатно при въезде с 06:01 до 20:00 и выезде до 23:59 при предъявлении эл. проездного документа (БСК/"Подорожник"), подтверждающего совершение 1 поездки на общественном транспорте. 150 р. за 11 ч. при въезде с 20:01 до 07:00. www. gcup.spb.ru, 417-50-00</note>
+    <coordinates>59.832728,30.373616</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>15</number>
+    <address>Санкт-Петербург, Балканская пл., у д. 5 литера О</address>
+    <type>Перехватывающая</type>
+    <parking_space>58</parking_space>
+    <area>2160.0</area>
+    <district_city>Фрунзенский</district_city>
+    <nearest_subway_station>Купчино</nearest_subway_station>
+    <note>Круглосуточно. Бесплатно при въезде с 06:01 до 20:00 и выезде до 23:59 при предъявлении эл. проездного документа (БСК/"Подорожник"), подтверждающего совершение 1 поездки на общественном транспорте. 150 р. за 11 ч. при въезде с 20:01 до 07:00. www. gcup.spb.ru, 417-50-00</note>
+    <coordinates>59.831534,30.377492</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>16</number>
+    <address>Санкт-Петербург, Синопская набережная, у д. 30</address>
+    <type>Городская</type>
+    <parking_space>121</parking_space>
+    <area>5590.0</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Площадь Александра Невского</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Стоимость: 100 руб./час, 600 руб./сутки, 6 000 руб./месяц. Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>59.930620,30.388750</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>17</number>
+    <address>Санкт-Петербург,  пр. Маршала Жукова, южнее д. 5, лит. А по Кронштадтской ул. </address>
+    <type>Городская</type>
+    <parking_space>70</parking_space>
+    <area>2522.0</area>
+    <district_city>Кировский</district_city>
+    <nearest_subway_station>Кировский завод</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Стоимость: категории "А" и "В" - 200 руб./сутки, 3 500 руб./месяц; категории "ВЕ", "D" и "С" - 330 руб./сутки, 6 000 руб./месяц. Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>59.872208,30.252502</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>18</number>
+    <address>Санкт-Петербург, пр. Народного Ополчения, напротив д.179</address>
+    <type>Городская</type>
+    <parking_space>93</parking_space>
+    <area>3000.0</area>
+    <district_city>Кировский</district_city>
+    <nearest_subway_station>Проспект Ветеранов</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Стоимость: категории "А" и "В" - 200 руб./сутки, 3 500 руб./месяц; категории "ВЕ", "D" и "С" - 330 руб./сутки, 6 000 руб./месяц. Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>59.824409,30.213768</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>19</number>
+    <address>Санкт-Петербург, ул.Коммуны, северо-восточнее д. 16, лит. А</address>
+    <type>Городская</type>
+    <parking_space>100</parking_space>
+    <area>3496.0</area>
+    <district_city>Красногвардейский</district_city>
+    <nearest_subway_station>Ладожская</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Стоимость: категории "А" и "В" - 200 руб./сутки, 3 500 руб./месяц; категории "ВЕ", "D" и "С" - 330 руб./сутки, 6 000 руб./месяц. Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>59.943616,30.505647</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>20</number>
+    <address>Санкт-Петербург, 5-й Предпортовый проезд, напротив дома 86, литера А по Кубинской улице</address>
+    <type>Городская</type>
+    <parking_space>257</parking_space>
+    <area>7008.0</area>
+    <district_city>Московский</district_city>
+    <nearest_subway_station>Звездная</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Стоимость: категории "А" и "В" - 200 руб./сутки, 3 500 руб./месяц; категории "ВЕ", "D" и "С" - 330 руб./сутки, 6 000 руб./месяц. Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>59.836532,30.310552</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>21</number>
+    <address>Санкт-Петербург, Толмачевская ул., севернее дома 7, лит. В по Стартовой ул.</address>
+    <type>Городская</type>
+    <parking_space>33</parking_space>
+    <area>1231.0</area>
+    <district_city>Московский</district_city>
+    <nearest_subway_station>Звездная</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Стоимость: категории "А" и "В" - 200 руб./сутки, 3 500 руб./месяц; категории "ВЕ", "D" и "С" - 330 руб./сутки, 6 000 руб./месяц. Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>59.810496,30.314225</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>22</number>
+    <address>Санкт-Петербург, ул. Оптиков, северо-восточнее пересечения с Туристской ул.</address>
+    <type>Городская</type>
+    <parking_space>45</parking_space>
+    <area>2639.0</area>
+    <district_city>Приморский</district_city>
+    <nearest_subway_station>Старая Деревня</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Стоимость: категории "А" и "В" - 200 руб./сутки, 3 500 руб./месяц; категории "ВЕ", "D" и "С" - 330 руб./сутки, 6 000 руб./месяц. Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>60.000950,30.213368</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>23</number>
+    <address>Санкт-Петербург, ул. Оптиков, северо-западнее пересечения с Яхтенной ул.</address>
+    <type>Городская</type>
+    <parking_space>45</parking_space>
+    <area>2500.0</area>
+    <district_city>Приморский</district_city>
+    <nearest_subway_station>Старая Деревня</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Стоимость: категории "А" и "В" - 200 руб./сутки, 3 500 руб./месяц; категории "ВЕ", "D" и "С" - 330 руб./сутки, 6 000 руб./месяц. Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>60.000306,30.218357</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>24</number>
+    <address>Санкт-Петербург, Лиговский пр., юго-восточнее д. 10/118, лит. А по Лиговскому пр.</address>
+    <type>Городская</type>
+    <parking_space>56</parking_space>
+    <area>1319.0</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Площадь Восстания</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Стоимость: 100 руб./час, 600 руб./сутки, 6 000 руб./месяц. Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>59.931260,30.362499</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>25</number>
+    <address>Санкт-Петербург, Греческая пл., северо-западнее д. 6 по Лиговскому пр.</address>
+    <type>Городская</type>
+    <parking_space>84</parking_space>
+    <area>2821.0</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Площадь Восстания</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Стоимость: 100 руб./час, 600 руб./сутки, 6 000 руб./месяц. Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>59.936190,30.364736</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>26</number>
+    <address>Санкт-Петербург, пл. Островского, у дома 6</address>
+    <type>Городская</type>
+    <parking_space>57</parking_space>
+    <area>1300.0</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Гостинный двор</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Стоимость: 100 руб./час, 600 руб./сутки, 6 000 руб./месяц. Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>59.932003,30.335314</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>27</number>
+    <address>Санкт-Петербург, г. Петергоф, Санкт-Петербургский пр., северо-восточнее пересечения с Петергофским ручьем</address>
+    <type>Городская (для автобусов)</type>
+    <parking_space>332</parking_space>
+    <area>58324.0</area>
+    <district_city>Петродворцовый</district_city>
+    <nearest_subway_station>Проспект Ветеранов</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Стоимость: 100 руб./час (первые 4 часа), 250 руб./час (5 и 6 час), 250 руб./час (7 и последующие часы). Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>59.888729,29.884266</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>28</number>
+    <address>Санкт-Петербург, г. Петергоф, Прудовая ул., юго-восточнее пересечения с Волконской ул.</address>
+    <type>Городская</type>
+    <parking_space>345</parking_space>
+    <area>11697.0</area>
+    <district_city>Петродворцовый</district_city>
+    <nearest_subway_station>Проспект Ветеранов</nearest_subway_station>
+    <note>Круглосуточно. Стоимость: категории "А" и "В" - 50 р./час (первые 4 часа), 100 р./час (5 и 6 час), 150 р./час (7 и последующие часы); категории "ВЕ", "D" и "С" - 100 р./час (первые 4 часа), 250 р./час (5 и 6 час), 250 р./час (7 и последующие часы). www. gcup.spb.ru Тел. 417-50-00</note>
+    <coordinates>59.882449,29.902289</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>29</number>
+    <address>Санкт-Петербург, г. Петергоф, Прудовая ул., юго-восточнее пересечения с ул. Морского Десанта</address>
+    <type>Городская</type>
+    <parking_space>95</parking_space>
+    <area>9063.0</area>
+    <district_city>Петродворцовый</district_city>
+    <nearest_subway_station>Проспект Ветеранов</nearest_subway_station>
+    <note>Круглосуточно. Стоимость: категории "А" и "В" - 50 р./час (первые 4 часа), 100 р./час (5 и 6 час), 150 р./час (7 и последующие часы); категории "ВЕ", "D" и "С" - 100 р./час (первые 4 часа), 250 р./час (5 и 6 час), 250 р./час (7 и последующие часы). www. gcup.spb.ru Тел. 417-50-00</note>
+    <coordinates>59.884866,29.902321</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>30</number>
+    <address>Санкт-Петербург, г. Ломоносов, Краснофлотское ш., юго-западнее пересечения Краснофлотского ш. и Ветеринарного пер.</address>
+    <type>Городская (для автобусов)</type>
+    <parking_space>46</parking_space>
+    <area>9976.0</area>
+    <district_city>Петродворцовый</district_city>
+    <nearest_subway_station>Проспект Ветеранов</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Стоимость: 100 руб./час (первые 4 часа), 250 руб./час (5 и 6 час), 250 руб./час (7 и последующие часы). Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>59.919331,29.731392</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>31</number>
+    <address>Санкт-Петербург, пос. Шушары, территория Пулковское, Переведенская ул., напротив д. 6</address>
+    <type>Городская</type>
+    <parking_space>634</parking_space>
+    <area>30700.0</area>
+    <district_city>Пушкинский</district_city>
+    <nearest_subway_station>Купчино</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>59.756308,30.373850</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>32</number>
+    <address>Санкт-Петербург, улица Пилотов, участок 1 (юго-западнее дома 7, литера А по Стартовой улице)</address>
+    <type>Городская</type>
+    <parking_space>185</parking_space>
+    <area>6242.0</area>
+    <district_city>Московский</district_city>
+    <nearest_subway_station>Звездная</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Стоимость: категории "А" и "В" - 200 руб./сутки, 3 500 руб./месяц; категории "ВЕ", "D" и "С" - 330 руб./сутки, 6 000 руб./месяц. Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>59.809483,30.312777</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>33</number>
+    <address>Санкт-Петербург, Казанская пл., у дома 2 </address>
+    <type>Городская</type>
+    <parking_space>46</parking_space>
+    <area>1809.0</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Невский проспект</nearest_subway_station>
+    <note>Режим работы: Круглосуточно. Стоимость: 100 руб./час, 600 руб./сутки, 6 000 руб./месяц. Сайт: www. gcup.spb.ru Телефон + 7 (812) 417-50-00</note>
+    <coordinates>59.934058,30.325172</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>34</number>
+    <address>Санкт-Петербург, Артиллерийская улица, (от ул. Короленко до ул. Маяковского)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>48</parking_space>
+    <area>636.0</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1106. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00 </note>
+    <coordinates>59.941793,30.352321</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>35</number>
+    <address>Санкт-Петербург, Басков переулок, (от ул. Короленко до ул. Радищева)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>172</parking_space>
+    <area>2279.0</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1111. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00 </note>
+    <coordinates>59.939496,30.359329</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>36</number>
+    <address>Санкт-Петербург, Виленский переулок  (от ул. Восстания до ул. Радищева)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>33</parking_space>
+    <area>437.25</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1110. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00 </note>
+    <coordinates>59.940148,30.365920</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>37</number>
+    <address>Санкт-Петербург, Гродненский переулок (параллельно ул. Рылеева до ул. Радищева)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>23</parking_space>
+    <area>304.75</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1107. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.941662,30.361253</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>38</number>
+    <address>Санкт-Петербург, Кирочная улица (от Литейного пр. до ул. Радищева)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>137</parking_space>
+    <area>1815.25</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1103. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.943910,30.360143</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>39</number>
+    <address>Санкт-Петербург, Ковенский переулок (от ул. Маяковского до Лиговского пр.)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>116</parking_space>
+    <area>1537.0</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1115. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.937317,30.359368</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>40</number>
+    <address>Санкт-Петербург, Лиговский проспект (от ул. Некрасова до Невского пр.)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>82</parking_space>
+    <area>1086.5</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1127. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.935046,30.363697</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>41</number>
+    <address>Санкт-Петербург, Литейный проспект (от Кирочной ул. до Невского пр.)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>210</parking_space>
+    <area>2782.5</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1121. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.939164,30.348306</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>42</number>
+    <address>Санкт-Петербург, Манежный переулок (от Преображенской пл. до ул. Восстания)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>95</parking_space>
+    <area>1258.75</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1104. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.943203,30.356477</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>43</number>
+    <address>Санкт-Петербург, Моховая улица (от ул. Пестеля до пл. Белинского)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>136</parking_space>
+    <area>1802.0</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1120. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.942107,30.345252</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>44</number>
+    <address>Санкт-Петербург, Митавский переулок (от Саперного пер. до ул. Восстания)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>10</parking_space>
+    <area>132.5</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1109. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.940283,30.359037</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>45</number>
+    <address>Санкт-Петербург, набережная реки Фонтанки, четная сторона (от ул. Белинского до Невского пр.)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>63</parking_space>
+    <area>834.75</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1119. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.937149,30.344178</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>46</number>
+    <address>Санкт-Петербург, Озерной переулок (от ул. Восстания до Лиговского пр.)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>47</parking_space>
+    <area>622.75</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1114. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.938012,30.362907</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>47</number>
+    <address>Санкт-Петербург, переулок Ульяны Громовой (от ул. Восстания до Лиговского пр.)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>28</parking_space>
+    <area>371.0</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1118. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.934201,30.361776</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>48</number>
+    <address>Санкт-Петербург, Преображенская площадь (на пересечении ул. Пестеля, ул. Короленко, ул. Рылеева, Мошкова пер. и пер. Радищева)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>182</parking_space>
+    <area>2411.5</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1102. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.943182,30.351440</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>49</number>
+    <address>Санкт-Петербург, Саперный переулок (от ул. Маяковского до ул. Радищева)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>88</parking_space>
+    <area>1166.0</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1108. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.940940,30.360015</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>50</number>
+    <address>Санкт-Петербург, Солдатский переулок (от ул. Восстания до ул. Радищева)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>12</parking_space>
+    <area>159.0</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1116. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.936580,30.361748</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>51</number>
+    <address>Санкт-Петербург,  ул. Белинского (от наб.р. Фонтанки до Литейного пр.)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>47</parking_space>
+    <area>622.75</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1113. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.938227,30.346218</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>52</number>
+    <address>Санкт-Петербург, улица Восстания (от пл. Восстания до Кирочной ул.)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>233</parking_space>
+    <area>3087.25</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1125. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.933298,30.360069</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>53</number>
+    <address>Санкт-Петербург, улица Жуковского (от Литейного пр. до Лиговского пр.)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>154</parking_space>
+    <area>2040.5</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1117. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.935877,30.356189</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>54</number>
+    <address>Санкт-Петербург, улица Короленко (от ул. Некрасова до Преображенской пл.)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>75</parking_space>
+    <area>993.75</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1122. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.941019,30.350367</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>55</number>
+    <address>Санкт-Петербург, улица Маяковского (от Невского пр. до Кирочного пр.)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>310</parking_space>
+    <area>4107.5</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1124. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.938070,30.355186</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>56</number>
+    <address>Санкт-Петербург, улица Некрасова (от Литейного пр. до Лиговского пр.)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>143</parking_space>
+    <area>1894.75</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1112. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.938777,30.359102</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>57</number>
+    <address>Санкт-Петербург, улица Пестеля (от наб.р. Фонтанки до Преображенской пл.)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>67</parking_space>
+    <area>887.75</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1101. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.942694,30.344788</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>58</number>
+    <address>Санкт-Петербург, улица Радищева (от ул. Жуковского до Кирочной ул.)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>112</parking_space>
+    <area>1484.0</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1126. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.938335,30.363270</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>59</number>
+    <address>Санкт-Петербург, улица Рылеева (от Преображенской пл. до ул. Радищева)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>106</parking_space>
+    <area>1404.5</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1105. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.942500,30.356350</coordinates>
+  </info_parking>
+  <info_parking>
+    <number>60</number>
+    <address>Санкт-Петербург, улица Чехова (от ул. Жуковского до ул. Некрасова)</address>
+    <type>Зона платной парковки</type>
+    <parking_space>70</parking_space>
+    <area>927.5</area>
+    <district_city>Центральный</district_city>
+    <nearest_subway_station>Чернышевская / Площадь Восстания / Маяковская</nearest_subway_station>
+    <note>Зона платной парковки № 1123. Пн-Вс, 08:00 - 20:00. Оплата в течение 15 минут. Категории "А" и "М" - 30 руб./час, Категория "В" - 60 руб./час, Категория "С" - 120 руб./час. Сайт: www.parking.spb.ru Телефон: +7 (812) 417-50-00</note>
+    <coordinates>59.938000,30.352872</coordinates>
+  </info_parking>
+</dataset>
