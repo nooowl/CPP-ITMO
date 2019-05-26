@@ -21,7 +21,7 @@ Operators overloading.
 
 ### Lab №3
 
-Implementation of some classes.
+The implementation of some classes.
 
   **Classes:**
 - vector;
@@ -29,7 +29,7 @@ Implementation of some classes.
 
 ### Lab №4
 
-Implementation of some classes using classes extends + menu.
+The implementation of some classes using classes extends + menu.
 
   **Classes:**
 - vechile;
@@ -37,7 +37,7 @@ Implementation of some classes using classes extends + menu.
 
 ### Lab №5
 
-Implementation of class "Figure" with virtual functions.
+The implementation of the "Figure" class with virtual functions.
 
   **Figures:**
 - interval;
@@ -45,11 +45,11 @@ Implementation of class "Figure" with virtual functions.
 
 ### Lab №6, Lab №7
 
-Implementation of class "Array" with templates and some exceptions.
+The implementation of the "Array" class with templates and some exceptions.
 
 ### Lab №8
 
-Implementation of some generic classes.
+The implementation of some generic classes.
 
   **Classes:**
 - all_of;
@@ -60,4 +60,6 @@ Implementation of some generic classes.
 
 Parsing XML file with information about parkings in St.Petersburg.
 
+### Lab №10
 
+The implementation of the "Binary search tree" class with [treap](https://neerc.ifmo.ru/wiki/index.php?title=%D0%94%D0%B5%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%BE_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE).
